@@ -1,13 +1,32 @@
 body{
-    background-color: rgb(61, 58, 58);
+    background-color: rgb(46, 44, 44);
 }
-li{
-    color: rgb(196, 187, 187);
+.head{
+    margin: auto;
+    background-color: rgb(94, 59, 59);
+    width: 40%;
+}
+.title{
+    color: rgb(202, 191, 174);
+    text-align: center;
+}
+li, a{
+    color: rgb(223, 204, 204);
+    font-size: 30px;
 }
 
 h1{
     color:rgb(192, 185, 176);
+    font-size: 50px;
 }
 label{
     color: rgb(134, 132, 128);
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
 }
