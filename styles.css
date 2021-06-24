@@ -10,9 +10,14 @@ body{
     color: rgb(202, 191, 174);
     text-align: center;
 }
+.lista{
+    background-color: black;
+    text-align: center;
+}
 li, a{
     color: rgb(223, 204, 204);
     font-size: 30px;
+    text-decoration: none;
 }
 
 h1{
@@ -21,12 +26,4 @@ h1{
 }
 label{
     color: rgb(134, 132, 128);
-}
-.box{
-    height: 100px;
-    width: 100px;
-    border-radius: 50%;
-    background-color: blanchedalmond;
-    margin-left: auto;
-    margin-right: auto;
 }
