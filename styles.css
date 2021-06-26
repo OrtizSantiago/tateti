@@ -1,18 +1,28 @@
 body{
-    background-color: rgb(46, 44, 44);
+    background-color: rgb(70, 68, 68);
+    margin: 0;
+}
+.section-box{
+    background-color: black;
+    width: 80%;
+    height: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 2px 3px 12px 5px burlywood;
 }
 .head{
     margin: auto;
     background-color: rgb(94, 59, 59);
-    width: 40%;
 }
 .title{
     color: rgb(202, 191, 174);
     text-align: center;
 }
 .lista{
-    background-color: black;
+    background-color: rgb(65, 62, 62);
     text-align: center;
+    margin-top: 100px;
+    box-shadow: 2px 3px 5px 3px wheat;
 }
 li, a{
     color: rgb(223, 204, 204);
@@ -24,6 +34,14 @@ h1{
     color:rgb(192, 185, 176);
     font-size: 50px;
 }
-label{
-    color: rgb(134, 132, 128);
+.foot{
+    background-color: rgb(146, 142, 142);
+    width: 100%;
+    margin-top: 10px;
+}
+.imageface, .imgithub{
+    margin: 10px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
 }
