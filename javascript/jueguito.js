@@ -1,0 +1,1 @@
+document.querySelector("#nwgame").innerHTML;
